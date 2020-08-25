@@ -26,9 +26,15 @@ Go into that notebook, detail instructions are mentioned there.
 
 [Models](https://drive.google.com/drive/folders/1JhYFpbRGgvWQaI7QWFRpIlOOZfqnMmIy?usp=sharing) Models that i'have trained
 
+Please Download those models and find one name my_model_nep_10.hdf5 and put it inside
+```
+models/
+```
+
+
 ## Contributing
 
-
+self
 
 ## Versioning
 
