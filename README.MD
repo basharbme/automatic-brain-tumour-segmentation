@@ -49,3 +49,4 @@ This project is licensed under the MIT License. Anybody to use or modify.
 
 * Academic Project | Data Science | UofR
 * Will be working on this model in ordee to achieve better result
+* Learnings are taken from AI for medical diagnosis on Coursera
